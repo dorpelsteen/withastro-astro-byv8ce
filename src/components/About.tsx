@@ -5,7 +5,7 @@ export function About() {
   const activities = [
     {
       icon: <Printer size={24} />,
-      title: '3D Farting & Prototyping',
+      title: '3D Printing & Prototyping',
       description: 'Passionate about bringing ideas to life through 3D printing. My home workshop serves as a creative space for prototyping and testing innovative designs.'
     },
     {
